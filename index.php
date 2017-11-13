@@ -1,5 +1,3 @@
 <?php 
-echo 'hi';
-die;
-header("Location: https://palmoanalua.com/baseball", TRUE, 301); 
+echo ("Site has moved to <a href='https://palmoanalua.com/baseball'>https://palmoanalua.com/baseball</a>");
 ?>

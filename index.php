@@ -1,1 +1,3 @@
-<?php include_once("index.html"); ?>
+<?php 
+header("Location: https://palmoanalua.com/baseball", TRUE, 301); 
+?>

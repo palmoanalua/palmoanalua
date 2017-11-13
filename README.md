@@ -1,2 +1,2 @@
-# palmoanalua
+# palmoanalua.
 Redirection to new site.
